@@ -52,10 +52,12 @@ normal: provides extra details like makes it look like the staples have volume t
 
 ### 2. It applies the artwork onto the texture of it.
 
-Here is the base texture:
+Here is the base texture:  
+
+
 <img src="https://user-images.githubusercontent.com/190692/60318034-6c459680-993f-11e9-890d-d7159d5a8a82.jpg" width="60%">
 
-We then apply the artwork onto it:
+We then apply the artwork onto it:  
 
 <img src="https://user-images.githubusercontent.com/190692/60318037-710a4a80-993f-11e9-8702-65ed7a3d72eb.jpg" width="40%">
 
