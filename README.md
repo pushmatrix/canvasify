@@ -49,9 +49,12 @@ ruby canvasify.rb /path/to/artwork.jpg
 
 The 3D model is in .obj format. It comes with textures for:
 
-*base color*: (the canvas material texture + wood) . 
+*base color*: (the canvas material texture + wood)  
+
 *metalness*: specifies where things are metallic, like the staples on the canvas 
-*roughness*: how rough the model is in various parts. Ex: wood behaves differently than the canvas 
+
+*roughness*: how rough the model is in various parts. Ex: wood behaves differently than the canvas
+
 *normal*: provides extra details like makes it look like the staples have volume to them 
 
 
