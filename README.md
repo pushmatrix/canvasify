@@ -59,7 +59,7 @@ Here is the base texture:
 
 We then apply the artwork onto it:  
 
-<img src="https://user-images.githubusercontent.com/190692/60318037-710a4a80-993f-11e9-8702-65ed7a3d72eb.jpg" width="40%">
+<img src="https://user-images.githubusercontent.com/190692/60318037-710a4a80-993f-11e9-8702-65ed7a3d72eb.jpg" width="60%">
 
 Notice how we stretch out the sides so they wrap around the sides of the canvas. We also perform a "multiply" of the artwork onto the base texture, so that the texturing in the canvas material appears through the artwork. It is more convincing.
 
