@@ -45,14 +45,14 @@ ruby canvasify.rb /path/to/artwork.jpg
 
 ## How it works
 
-### 1. The script loads a 3D model of a 24x30 canvas.
+### 1. The script loads a 3D model of a 18x24 canvas.
 
 The 3D model is in .obj format. It comes with textures for:
 
-base color: (the canvas material texture + wood)
-metalness: specifies where things are metallic, like the staples on the canvas
-roughness: how rough the model is in various parts. Ex: wood behaves differently than the canvas
-normal: provides extra details like makes it look like the staples have volume to them
+*base color*: (the canvas material texture + wood) . 
+*metalness*: specifies where things are metallic, like the staples on the canvas 
+*roughness*: how rough the model is in various parts. Ex: wood behaves differently than the canvas 
+*normal*: provides extra details like makes it look like the staples have volume to them 
 
 
 ### 2. It applies the artwork onto the texture of it.
