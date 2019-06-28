@@ -2,6 +2,11 @@
 
 A small ruby script that creates 3D models of canvas art from flat 2D images.
 
+<img src="https://user-images.githubusercontent.com/190692/60318827-75843280-9942-11e9-83ea-be8c1fe5f821.gif" width="30%">
+
+<img src="https://user-images.githubusercontent.com/190692/60318594-afa10480-9941-11e9-8c83-2467b72ff789.gif" width="30%">
+
+
 
 ## Requirements
 
